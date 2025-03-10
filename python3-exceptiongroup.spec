@@ -6,7 +6,7 @@ Summary:	Backport of PEP 654 (exception groups)
 Summary(pl.UTF-8):	Backport PEP 654 (grup wyjątków)
 Name:		python3-exceptiongroup
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/exceptiongroup/
